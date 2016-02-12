@@ -1,7 +1,9 @@
 html { 
-  background: url(static/rings.jpg) no-repeat center center fixed; 
+background-color: #556B2F; 
+/*background: url(rings.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  */
 }
